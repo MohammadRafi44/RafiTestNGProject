@@ -2,24 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="9312" started-at="2021-03-05T21:23:02 AST" finished-at="2021-03-05T21:23:11 AST">
+  <suite name="Default suite" duration-ms="1840" started-at="2021-03-13T13:07:18 AST" finished-at="2021-03-13T13:07:20 AST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="9312" started-at="2021-03-05T21:23:02 AST" finished-at="2021-03-05T21:23:11 AST">
-      <class name="webPortal.NewTest1">
-        <test-method status="PASS" signature="setup()[pri:0, instance:webPortal.NewTest1@394e1a0f]" name="setup" is-config="true" duration-ms="4725" started-at="2021-03-05T21:23:02 AST" finished-at="2021-03-05T21:23:06 AST">
+    <test name="Default test" duration-ms="1840" started-at="2021-03-13T13:07:18 AST" finished-at="2021-03-13T13:07:20 AST">
+      <class name="api_WebServices.TC001_Get_Request">
+        <test-method status="PASS" signature="googleMapTest()[pri:0, instance:api_WebServices.TC001_Get_Request@3043fe0e]" name="googleMapTest" duration-ms="1804" started-at="2021-03-13T13:07:18 AST" finished-at="2021-03-13T13:07:20 AST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method status="PASS" signature="googleTest()[pri:0, instance:webPortal.NewTest1@394e1a0f]" name="googleTest" duration-ms="3719" started-at="2021-03-05T21:23:06 AST" finished-at="2021-03-05T21:23:10 AST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- googleTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:webPortal.NewTest1@394e1a0f]" name="tearDown" is-config="true" duration-ms="796" started-at="2021-03-05T21:23:10 AST" finished-at="2021-03-05T21:23:11 AST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- webPortal.NewTest1 -->
+        </test-method> <!-- googleMapTest -->
+      </class> <!-- api_WebServices.TC001_Get_Request -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
